@@ -1,0 +1,4 @@
+//bable hangi tür işlemleri içn kullanır
+{
+    "presets": ["@babel/preset-env"]
+}
